@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="784e5757-5e98-46f6-8b18-6c70ae81ebb8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/ThreadP13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/ThreadP13.java" afterDir="false" />
     </list>
     <ignored path="java_test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +27,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="java" value="10" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JAVA" value="10" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -71,11 +74,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Thread/ThreadP13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="22">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
               <folding>
-                <marker date="1535849866430" expanded="true" signature="66:516" ph="..." />
-                <marker date="1535849866430" expanded="true" signature="167:514" ph="..." />
+                <marker date="1537078831759" expanded="true" signature="76:526" ph="..." />
+                <marker date="1537078831759" expanded="true" signature="177:524" ph="..." />
               </folding>
             </state>
           </provider>
@@ -381,6 +384,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
@@ -398,8 +402,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="SBT Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4993573" visible="true" weight="0.5795148" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50064266" side_tool="true" visible="true" weight="0.5795148" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4993573" visible="true" weight="0.21967655" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50064266" side_tool="true" visible="true" weight="0.21967655" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32885906" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -500,11 +504,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thread/ThreadP13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="22">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
           <folding>
-            <marker date="1535849866430" expanded="true" signature="66:516" ph="..." />
-            <marker date="1535849866430" expanded="true" signature="167:514" ph="..." />
+            <marker date="1537078831759" expanded="true" signature="76:526" ph="..." />
+            <marker date="1537078831759" expanded="true" signature="177:524" ph="..." />
           </folding>
         </state>
       </provider>
