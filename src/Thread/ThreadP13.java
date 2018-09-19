@@ -4,6 +4,8 @@ package Thread;
 /**
  * Created by Administrator on 2018/9/1.
  */
+class LoginServlet{
+    private static String usernameRef;
     private static String passwordRef;
     public static void doPost(String username,String password){
         try{
