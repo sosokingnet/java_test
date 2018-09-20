@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="784e5757-5e98-46f6-8b18-6c70ae81ebb8" name="Default" comment="commit test 2">
+      <change afterPath="$PROJECT_DIR$/src/God/P67AbstractHumanFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/God/Std/SingletonMuti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/God/Std/SingletonMuti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_test/God/Std/Emperor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_test/God/Std/Emperor.class" afterDir="false" />
     </list>
     <ignored path="java_test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,26 +52,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="18" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="18" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3395" />
+          <entry key="java" value="5960" />
           <entry key="md" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3395" />
+          <entry key="JAVA" value="5960" />
           <entry key="Markdown" value="98" />
         </counts>
       </usages-collector>
@@ -82,42 +83,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MathTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="154">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../git/Notes/001.编辑器/002.git的使用笔记.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="396">
-                <caret line="18" selection-start-line="18" selection-end-line="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/God/P59Minister.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
+            <state>
               <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
@@ -159,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/God/Std/SingletonMuti.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+            <state relative-caret-position="176">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#245#253#0" expanded="true" />
@@ -173,6 +141,42 @@
                 <element signature="e#949#950#0" expanded="true" />
                 <element signature="e#1016#1017#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/God/Std/AbstractFactory/ConcreteProduct2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/God/Std/AbstractFactory/Creator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="67" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/God/Std/AbstractFactory/ConcreteCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/God/Std/AbstractFactory/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -209,6 +213,13 @@
         <option value="$PROJECT_DIR$/src/God/Std/SingletonThreadSave1.java" />
         <option value="$PROJECT_DIR$/src/God/Std/SingletonThreadSave2.java" />
         <option value="$PROJECT_DIR$/src/God/Std/SingletonMuti.java" />
+        <option value="$PROJECT_DIR$/src/God/P67AbstractHumanFactory.java" />
+        <option value="$PROJECT_DIR$/src/God/Std/AbstractFactory/Product.java" />
+        <option value="$PROJECT_DIR$/src/God/Std/AbstractFactory/ConcreteProduct1.java" />
+        <option value="$PROJECT_DIR$/src/God/Std/AbstractFactory/ConcreteProduct2.java" />
+        <option value="$PROJECT_DIR$/src/God/Std/AbstractFactory/Creator.java" />
+        <option value="$PROJECT_DIR$/src/God/Std/AbstractFactory/ConcreteCreator.java" />
+        <option value="$PROJECT_DIR$/src/God/Std/AbstractFactory/Client.java" />
       </list>
     </option>
   </component>
@@ -255,6 +266,14 @@
               <item name="java_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="God" type="462c0819:PsiDirectoryNode" />
+              <item name="Std" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Thread" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -267,7 +286,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="FullScreen" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537453353928" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537455009930" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
@@ -285,7 +304,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingletonMuti">
+  <component name="RunManager" selected="Application.Client">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -381,13 +400,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.MyThread" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="God.Std.AbstractFactory.Client" />
       <module name="java_test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.*" />
+          <option name="PATTERN" value="God.Std.AbstractFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,13 +428,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonMuti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="God.Std.SingletonMuti" />
+    <configuration name="P67AbstractHumanFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="God.P67AbstractHumanFactory" />
       <module name="java_test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="God.Std.*" />
+          <option name="PATTERN" value="God.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,13 +442,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thead_p11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.Thead_p11" />
+    <configuration name="SingletonMuti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="God.Std.SingletonMuti" />
       <module name="java_test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.*" />
+          <option name="PATTERN" value="God.Std.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -481,19 +500,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyThread" />
-      <item itemvalue="Application.Thead_p11" />
       <item itemvalue="Application.ThreadP13" />
       <item itemvalue="Application.P59Minister" />
       <item itemvalue="Application.SingletonMuti" />
+      <item itemvalue="Application.P67AbstractHumanFactory" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.P67AbstractHumanFactory" />
         <item itemvalue="Application.SingletonMuti" />
         <item itemvalue="Application.P59Minister" />
         <item itemvalue="Application.ThreadP13" />
-        <item itemvalue="Application.Thead_p11" />
-        <item itemvalue="Application.MyThread" />
       </list>
     </recent_temporary>
   </component>
@@ -530,7 +549,7 @@
     <frame x="-8" y="0" width="1616" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1722365" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1722365" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -539,17 +558,17 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48322147" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49807197" visible="true" weight="0.48247978" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="SBT Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49807197" visible="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50192803" side_tool="true" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4974293" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50192803" side_tool="true" visible="true" weight="0.48247978" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49807197" weight="0.32884097" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49550128" weight="0.32884097" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -654,6 +673,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -691,7 +714,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/God/P59Minister.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
+        <state>
           <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
@@ -726,8 +749,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/God/Std/SingletonMuti.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        <state relative-caret-position="176">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#245#253#0" expanded="true" />
@@ -737,6 +760,76 @@
             <element signature="e#949#950#0" expanded="true" />
             <element signature="e#1016#1017#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/God/Std/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/God/Std/AbstractFactory/ConcreteProduct1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/God/Std/AbstractFactory/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/God/P67AbstractHumanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/God/Std/AbstractFactory/ConcreteProduct2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/God/Std/AbstractFactory/Creator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="67" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/God/Std/AbstractFactory/ConcreteCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/God/Std/AbstractFactory/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
     </entry>
